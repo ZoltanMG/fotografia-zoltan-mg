@@ -2,29 +2,18 @@ import React from 'react';
 import Galeria from './components/galeria/Galeria'
 import Contacto from './components/contacto/Contacto'
 import Inicio from './components/inicio/Inicio'
+import Nav from './components/nav/Nav'
+import './app.css'
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from 'react-router-dom';
 
 function App() {
   return (
     <Router>
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">Inicio</Link>
-          </li>
-          <li>
-            <Link to="/galeria">Galeria</Link>
-          </li>
-          <li>
-            <Link to="/contacto">Contacto</Link>
-          </li>
-        </ul>
-      </nav>
+      <Nav />
       <Switch>
         <Route exact path="/" component={Inicio} />
         <Route exact path="/galeria" component={Galeria} />
