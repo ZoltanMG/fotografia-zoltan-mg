@@ -1,25 +1,30 @@
 nav {
     background-color: black;
     width: 100%;
+    height: 60px;
     display: flex;
     justify-content: center;
-    height: 70px;
     align-items: center;
 }
 
-nav ul {
+.navbar {
+    width: 100%;
+    max-width: 900px;
     display: flex;
-    justify-content: flex-end;
-    width: 900px;
+    justify-content: space-between;
+}
+
+.navbar ul {
+    display: flex;
 }
 
 .links {
     color: white;
-    padding: 0px 20px;
+    padding: 21px;
     font-size: 20px;
 }
 
 .logo{
-    font-size: 25px;
     color: white;
+    font-size: 25px;
 }
