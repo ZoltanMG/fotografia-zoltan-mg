@@ -25,3 +25,7 @@
 .botones-galeria button:hover {
     background-color: #080808;
 }
+
+.botones-galeria button:focus {
+    background-color: #080808;
+}
