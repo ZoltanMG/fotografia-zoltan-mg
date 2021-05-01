@@ -1,5 +1,4 @@
 import React from 'react';
-import foto1 from '../../img/IMG_5191.JPG'
 
 
 const AllFotos = () => {
@@ -12,7 +11,7 @@ const AllFotos = () => {
                 datos.map((item, index) => (
                  <div key={index}>
                      {/* src\img\IMG_5191.JPG */}
-                     <img src={foto1} alt=""/>
+                     <img src={item.nombre} alt=""/>
                      <h2>{item.nombre}</h2>
                      <h2>{item.iso}</h2>
                  </div>   
