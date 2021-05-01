@@ -1,5 +1,5 @@
 import React from 'react';
-import Galeria from './components/galeria/Galeria'
+import Fotos from './components/fotos/Fotos'
 import Contacto from './components/contacto/Contacto'
 import Inicio from './components/inicio/Inicio'
 import Nav from './components/nav/Nav'
@@ -16,7 +16,7 @@ function App() {
       <Nav />
       <Switch>
         <Route exact path="/" component={Inicio} />
-        <Route exact path="/galeria" component={Galeria} />
+        <Route exact path="/fotos" component={Fotos} />
         <Route exact path="/contacto" component={Contacto} />
       </Switch>
     </Router>
