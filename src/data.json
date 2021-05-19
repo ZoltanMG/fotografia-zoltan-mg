@@ -1,9 +1,34 @@
 [{
-        "nombre": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
-        "iso": "200"
+        "nombre_img": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro"
     },
     {
-        "nombre": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed_1.jpg?raw=true",
-        "iso": "100"
+        "nombre_img": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro"
+    },
+    {
+        "nombre_img": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro"
     }
 ]
