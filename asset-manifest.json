@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fotografia-zoltan-mg/static/css/main.ec69b31c.chunk.css",
-    "main.js": "/fotografia-zoltan-mg/static/js/main.36d6f78d.chunk.js",
-    "main.js.map": "/fotografia-zoltan-mg/static/js/main.36d6f78d.chunk.js.map",
+    "main.css": "/fotografia-zoltan-mg/static/css/main.bba06cc1.chunk.css",
+    "main.js": "/fotografia-zoltan-mg/static/js/main.74e1d330.chunk.js",
+    "main.js.map": "/fotografia-zoltan-mg/static/js/main.74e1d330.chunk.js.map",
     "runtime-main.js": "/fotografia-zoltan-mg/static/js/runtime-main.3eb49d9c.js",
     "runtime-main.js.map": "/fotografia-zoltan-mg/static/js/runtime-main.3eb49d9c.js.map",
-    "static/js/2.84a354ec.chunk.js": "/fotografia-zoltan-mg/static/js/2.84a354ec.chunk.js",
-    "static/js/2.84a354ec.chunk.js.map": "/fotografia-zoltan-mg/static/js/2.84a354ec.chunk.js.map",
+    "static/js/2.55bafb33.chunk.js": "/fotografia-zoltan-mg/static/js/2.55bafb33.chunk.js",
+    "static/js/2.55bafb33.chunk.js.map": "/fotografia-zoltan-mg/static/js/2.55bafb33.chunk.js.map",
     "index.html": "/fotografia-zoltan-mg/index.html",
-    "static/css/main.ec69b31c.chunk.css.map": "/fotografia-zoltan-mg/static/css/main.ec69b31c.chunk.css.map",
-    "static/js/2.84a354ec.chunk.js.LICENSE.txt": "/fotografia-zoltan-mg/static/js/2.84a354ec.chunk.js.LICENSE.txt"
+    "static/css/main.bba06cc1.chunk.css.map": "/fotografia-zoltan-mg/static/css/main.bba06cc1.chunk.css.map",
+    "static/js/2.55bafb33.chunk.js.LICENSE.txt": "/fotografia-zoltan-mg/static/js/2.55bafb33.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3eb49d9c.js",
-    "static/js/2.84a354ec.chunk.js",
-    "static/css/main.ec69b31c.chunk.css",
-    "static/js/main.36d6f78d.chunk.js"
+    "static/js/2.55bafb33.chunk.js",
+    "static/css/main.bba06cc1.chunk.css",
+    "static/js/main.74e1d330.chunk.js"
   ]
 }
