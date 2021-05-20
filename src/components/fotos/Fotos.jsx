@@ -16,16 +16,16 @@ const Fotos = () => {
             <div className="contenedor-galeria">
                 <div className="botones-galeria">
                     <button
-                        className={galeriaOFoto === 'galeria' ? 'boton-target' : 'color-boton-estandar'}
-                        onClick={galeria}
-                    >
-                        Galerias
-                    </button>
-                    <button
                         className={galeriaOFoto === 'fotos' ? 'boton-target' : 'color-boton-estandar'}
                         onClick={fotos}
                     >
                         Todas las fotos
+                    </button>
+                    <button
+                        className={galeriaOFoto === 'galeria' ? 'boton-target' : 'color-boton-estandar'}
+                        onClick={galeria}
+                    >
+                        Galerias
                     </button>
                 </div>
                 <div className="contenido-galeria">
