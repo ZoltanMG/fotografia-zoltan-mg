@@ -1,5 +1,6 @@
-import React, { useState } from 'react'
-const Prueba = (props) => {
+import React, { useState } from 'react';
+import './foto.css';
+const Foto = (props) => {
 
     const [didLoad, setLoad] = useState(false);
 
@@ -18,4 +19,4 @@ const Prueba = (props) => {
     );
 }
 
-export default Prueba
+export default Foto;

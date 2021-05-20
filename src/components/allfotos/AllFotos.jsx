@@ -1,7 +1,6 @@
 import React from 'react';
 import './allfotos.css'
-import Prueba from '../test/Prueba'
-
+import Prueba from '../foto/Foto'
 
 const AllFotos = () => {
     const datos = require('../../data.json');

@@ -29,12 +29,7 @@ const Fotos = () => {
                     </button>
                 </div>
                 <div className="contenido-galeria">
-                    {
-                        galeriaOFoto === 'galeria' ?
-                            (<Galerias />)
-                            :
-                            (<AllFotos />)
-                    }
+                    {galeriaOFoto === 'galeria' ? (<Galerias />) : (<AllFotos />)}
                 </div>
             </div>
 
