@@ -9,13 +9,15 @@ const AllFotos = () => {
     return (
         <div>
             <h1>Todas las fotos</h1>
-            {
-                datos.map((item, index) => (
-                 <div key={index}>
-                     <Prueba datos={item}/>
-                 </div>   
-                ))
-            }
+            <div className="content-all-fotos">
+                {
+                    datos.map((item, index) => (
+                        <div key={index}>
+                            <Prueba datos={item} />
+                        </div>
+                    ))
+                }
+            </div>
         </div>
     )
 }

@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import './prueba.css'
 const Prueba = (props) => {
 
     const [didLoad, setLoad] = useState(false);
@@ -9,6 +8,7 @@ const Prueba = (props) => {
     return (
         <div>
             <img
+                className={props.datos.formato === "vertical" ? "vertical" : "horizontal"}
                 style={style}
                 src={props.datos.nombre_img}
                 onLoad={() => setLoad(true)}

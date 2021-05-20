@@ -7,7 +7,8 @@
         "portada": true,
         "distancia_focal": "80mm",
         "fecha_captura": "01-01-2021",
-        "lugar": "centro"
+        "lugar": "centro",
+        "formato": "vertical"
     },
     {
         "nombre_img": "https://i.pinimg.com/originals/13/c0/56/13c05609af6278488e45eade3dceeea6.jpg",
@@ -18,7 +19,8 @@
         "portada": true,
         "distancia_focal": "80mm",
         "fecha_captura": "01-01-2021",
-        "lugar": "centro"
+        "lugar": "centro",
+        "formato": "horizontal"
     },
     {
         "nombre_img": "https://i.pinimg.com/originals/7b/fa/f9/7bfaf92fe8e162511ef8b209cc0d499b.jpg",
@@ -29,6 +31,79 @@
         "portada": true,
         "distancia_focal": "80mm",
         "fecha_captura": "01-01-2021",
-        "lugar": "centro"
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/13/c0/56/13c05609af6278488e45eade3dceeea6.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/7b/fa/f9/7bfaf92fe8e162511ef8b209cc0d499b.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/7b/fa/f9/7bfaf92fe8e162511ef8b209cc0d499b.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/13/c0/56/13c05609af6278488e45eade3dceeea6.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
     }
 ]
