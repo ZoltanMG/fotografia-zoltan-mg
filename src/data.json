@@ -1,17 +1,5 @@
 [{
-        "nombre_img": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
-        "iso": "200",
-        "f": "1.8",
-        "velocidad": "1/60",
-        "galeria": "prueba",
-        "portada": true,
-        "distancia_focal": "80mm",
-        "fecha_captura": "01-01-2021",
-        "lugar": "centro",
-        "formato": "vertical"
-    },
-    {
-        "nombre_img": "https://i.pinimg.com/originals/13/c0/56/13c05609af6278488e45eade3dceeea6.jpg",
+        "nombre_img": "https://i.pinimg.com/originals/7d/d4/9d/7dd49d1fea5c65afbb5712f589be1dfb.jpg",
         "iso": "200",
         "f": "1.8",
         "velocidad": "1/60",
@@ -23,7 +11,7 @@
         "formato": "horizontal"
     },
     {
-        "nombre_img": "https://i.pinimg.com/originals/7b/fa/f9/7bfaf92fe8e162511ef8b209cc0d499b.jpg",
+        "nombre_img": "https://i.pinimg.com/originals/f3/6c/d8/f36cd8a5acb654b7eadd770af53daebe.jpg",
         "iso": "200",
         "f": "1.8",
         "velocidad": "1/60",
@@ -35,7 +23,7 @@
         "formato": "vertical"
     },
     {
-        "nombre_img": "https://i.pinimg.com/originals/7b/fa/f9/7bfaf92fe8e162511ef8b209cc0d499b.jpg",
+        "nombre_img": "https://wearetravelgirls.com/wp-content/uploads/2020/01/bogota-colombia-11-.jpg",
         "iso": "200",
         "f": "1.8",
         "velocidad": "1/60",
@@ -47,19 +35,7 @@
         "formato": "vertical"
     },
     {
-        "nombre_img": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
-        "iso": "200",
-        "f": "1.8",
-        "velocidad": "1/60",
-        "galeria": "prueba",
-        "portada": true,
-        "distancia_focal": "80mm",
-        "fecha_captura": "01-01-2021",
-        "lugar": "centro",
-        "formato": "vertical"
-    },
-    {
-        "nombre_img": "https://i.pinimg.com/originals/13/c0/56/13c05609af6278488e45eade3dceeea6.jpg",
+        "nombre_img": "https://pro2-bar-s3-cdn-cf3.myportfolio.com/8b1c452f4da019863d4cea27776d3a84/484eed9811cb123781806245_rw_1200.jpg?h=010daad54e640efc9614985355ed63e9",
         "iso": "200",
         "f": "1.8",
         "velocidad": "1/60",
@@ -71,7 +47,7 @@
         "formato": "horizontal"
     },
     {
-        "nombre_img": "https://i.pinimg.com/originals/13/c0/56/13c05609af6278488e45eade3dceeea6.jpg",
+        "nombre_img": "https://bogota.gov.co/sites/default/files/styles/1050px/public/2019-07/dsc_0081.jpg",
         "iso": "200",
         "f": "1.8",
         "velocidad": "1/60",
@@ -83,7 +59,7 @@
         "formato": "horizontal"
     },
     {
-        "nombre_img": "https://i.pinimg.com/originals/7b/fa/f9/7bfaf92fe8e162511ef8b209cc0d499b.jpg",
+        "nombre_img": "https://i.pinimg.com/originals/26/7a/80/267a800b0bd540aee95b292f68ff2204.jpg",
         "iso": "200",
         "f": "1.8",
         "velocidad": "1/60",
@@ -95,7 +71,19 @@
         "formato": "vertical"
     },
     {
-        "nombre_img": "https://github.com/ZoltanMG/fotografia-zoltan-mg/blob/main/src/img/unnamed.jpg?raw=true",
+        "nombre_img": "https://live.staticflickr.com/4071/4591330831_cc43f21602_b.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://thumbs.dreamstime.com/b/edificio-blanco-y-negro-en-bogot%C3%A1-c%C3%A9ntrica-bogot%C3%A1-colombia-92914684.jpg",
         "iso": "200",
         "f": "1.8",
         "velocidad": "1/60",
@@ -105,5 +93,268 @@
         "fecha_captura": "01-01-2021",
         "lugar": "centro",
         "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://pro2-bar-s3-cdn-cf.myportfolio.com/8b1c452f4da019863d4cea27776d3a84/1d27c771-fb72-45dc-a8ce-b673ab1e9311_rw_1200.jpg?h=cd8f9c04927897f84a68068544677928",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://www.uniminutoradio.com.co/wp-content/uploads/2017/10/Centro_internacional-768x432.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/7d/d4/9d/7dd49d1fea5c65afbb5712f589be1dfb.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/f3/6c/d8/f36cd8a5acb654b7eadd770af53daebe.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://wearetravelgirls.com/wp-content/uploads/2020/01/bogota-colombia-11-.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://pro2-bar-s3-cdn-cf3.myportfolio.com/8b1c452f4da019863d4cea27776d3a84/484eed9811cb123781806245_rw_1200.jpg?h=010daad54e640efc9614985355ed63e9",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://bogota.gov.co/sites/default/files/styles/1050px/public/2019-07/dsc_0081.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/26/7a/80/267a800b0bd540aee95b292f68ff2204.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://live.staticflickr.com/4071/4591330831_cc43f21602_b.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://thumbs.dreamstime.com/b/edificio-blanco-y-negro-en-bogot%C3%A1-c%C3%A9ntrica-bogot%C3%A1-colombia-92914684.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://pro2-bar-s3-cdn-cf.myportfolio.com/8b1c452f4da019863d4cea27776d3a84/1d27c771-fb72-45dc-a8ce-b673ab1e9311_rw_1200.jpg?h=cd8f9c04927897f84a68068544677928",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://www.uniminutoradio.com.co/wp-content/uploads/2017/10/Centro_internacional-768x432.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    }, {
+        "nombre_img": "https://i.pinimg.com/originals/7d/d4/9d/7dd49d1fea5c65afbb5712f589be1dfb.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/f3/6c/d8/f36cd8a5acb654b7eadd770af53daebe.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://wearetravelgirls.com/wp-content/uploads/2020/01/bogota-colombia-11-.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://pro2-bar-s3-cdn-cf3.myportfolio.com/8b1c452f4da019863d4cea27776d3a84/484eed9811cb123781806245_rw_1200.jpg?h=010daad54e640efc9614985355ed63e9",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://bogota.gov.co/sites/default/files/styles/1050px/public/2019-07/dsc_0081.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://i.pinimg.com/originals/26/7a/80/267a800b0bd540aee95b292f68ff2204.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://live.staticflickr.com/4071/4591330831_cc43f21602_b.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://thumbs.dreamstime.com/b/edificio-blanco-y-negro-en-bogot%C3%A1-c%C3%A9ntrica-bogot%C3%A1-colombia-92914684.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "vertical"
+    },
+    {
+        "nombre_img": "https://pro2-bar-s3-cdn-cf.myportfolio.com/8b1c452f4da019863d4cea27776d3a84/1d27c771-fb72-45dc-a8ce-b673ab1e9311_rw_1200.jpg?h=cd8f9c04927897f84a68068544677928",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
+    },
+    {
+        "nombre_img": "https://www.uniminutoradio.com.co/wp-content/uploads/2017/10/Centro_internacional-768x432.jpg",
+        "iso": "200",
+        "f": "1.8",
+        "velocidad": "1/60",
+        "galeria": "prueba",
+        "portada": true,
+        "distancia_focal": "80mm",
+        "fecha_captura": "01-01-2021",
+        "lugar": "centro",
+        "formato": "horizontal"
     }
 ]

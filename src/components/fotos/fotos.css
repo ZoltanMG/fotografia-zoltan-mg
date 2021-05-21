@@ -5,6 +5,7 @@
 
 .contenedor-galeria {
     width: 90%;
+    max-width: 1300px;
 }
 
 .botones-galeria {
@@ -21,6 +22,7 @@
     color: white;
     font-size: 17px;
     cursor: pointer;
+    border-radius: 4px;
 }
 
 .color-boton-estandar:hover {
@@ -35,4 +37,5 @@
     color: white;
     font-size: 17px;
     cursor: pointer;
+    border-radius: 4px;
 }

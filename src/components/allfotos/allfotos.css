@@ -1,6 +1,7 @@
 .content-all-fotos {
+    margin: 50px 0;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
 }
