@@ -11,7 +11,7 @@ const AllFotos = () => {
                 {
                     datos.map((item, index) => (
                         <div key={index}>
-                            <Foto datos={item} />
+                            <Foto datos={item}/>
                         </div>
                     ))
                 }
